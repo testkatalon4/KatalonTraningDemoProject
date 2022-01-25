@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "A9EEEA6316A85F8EA51B5FD2A3FE9A88",
+  "keywordClasses": [
+    {
+      "name": "newkeyword",
+      "keywordMethods": [
+        {
+          "name": "Hello",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "hellouser",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
